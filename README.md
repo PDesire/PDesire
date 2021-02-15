@@ -54,18 +54,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
-**Current Projects:**  
-
-<a href="https://github.com/ZweiDev/thepublictransport-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZweiDev&repo=thepublictransport-app&theme=dark" />
-</a>  
-<a href="https://github.com/PDesire/Lavinia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PDesire&repo=Lavinia&theme=dark" />
-</a>  
-
-<br />
-<br />
 <br />
 
 **Currently on Spotify**
