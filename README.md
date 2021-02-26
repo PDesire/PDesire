@@ -1,26 +1,27 @@
-### Hey, I am PDesire 
+## Hey, I am PDesire 
 
-I am a 21 year old Fullstack Developer, loving great projects, big cities, development, politics and more! 
+I am a 21 year old Fullstack Developer, loving great projects, big cities, development, politics and more!
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=PDesire) ![Years Badge](https://badges.pufler.dev/years/PDesire) ![Commits Badge](https://badges.pufler.dev/commits/monthly/PDesire)
 
+<br />
 
-<!--
-**PDesire/PDesire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on 🔭
+  - https://github.com/ZweiDev 🚄
+  - https://github.com/Eins-Game 🎴
 
-Here are some ideas to get you started:
+### Currently learning 🌱
+  - Project management things 😎
+  - Luxembourgish :luxembourg:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me 📫
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/PDesireDev.svg?style=social&label=Follow%20%40PDesireDev)](https://twitter.com/PDesireDev) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/PDesire)
 
 <br />
 <br />
+<br />
+
+## More about myself
 
 **Statistics**
 
@@ -46,11 +47,6 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
-
-<br />
-<br />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PDesire) ![Years Badge](https://badges.pufler.dev/years/PDesire) ![Commits Badge](https://badges.pufler.dev/commits/monthly/PDesire)
 
 <br />
 <br />
