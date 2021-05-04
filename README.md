@@ -1,6 +1,7 @@
+
 ## Hey, I am PDesire 
 
-I am a 21 year old Fullstack Developer, loving great projects, big cities, development, politics and more!
+I am a 21 year old IT Consultant, loving great projects, big cities, development, politics and more!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PDesire) ![Years Badge](https://badges.pufler.dev/years/PDesire) ![Commits Badge](https://badges.pufler.dev/commits/monthly/PDesire)
 
@@ -60,4 +61,4 @@ I am a 21 year old Fullstack Developer, loving great projects, big cities, devel
 <br />
 <br />
 
-Inspired by [Leftwitch](https://github.com/Leftwitch) :D 
+Inspired by [Leftwitch](https://github.com/Leftwitch) :D
