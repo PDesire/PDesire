@@ -5,17 +5,8 @@ I am a 21 year old IT Consultant, loving great projects, big cities, development
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PDesire) ![Years Badge](https://badges.pufler.dev/years/PDesire) ![Commits Badge](https://badges.pufler.dev/commits/monthly/PDesire)
 
-### Currently working on
-  - https://github.com/ZweiDev
-  - https://github.com/Eins-Game
-
-### Currently learning / interested on
-  - Open Source Intelligence (OSINT)
-  - Ethical Hacking
-  - Software Architecture
-
-### How to talk to me
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/PDesireDev.svg?style=social&label=Follow%20%40PDesireDev)](https://twitter.com/PDesireDev) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/PDesire)
+### How to reach me
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/PDesireDev.svg?style=social&label=Follow%20%40PDesireDev)](https://twitter.com/PDesireDev)
 
 ### Statistics
 
