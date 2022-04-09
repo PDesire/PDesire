@@ -1,6 +1,7 @@
 
 <h1 align="center">Hey, I'm Tristan</h1>
-<h3 align="center">Full-time IT-Consultant @ <a href="https://axitera.de">Axitera</a> | Part-time political activist @ <a href="https://diehumanisten.de">Partei der Humanisten</a></h3>
+<h3 align="center">Full-time IT-Consultant @ <a href="https://axitera.de">Axitera</a><br />
+  Part-time political activist @ <a href="https://diehumanisten.de">Partei der Humanisten</a></h3>
 <p align="center">
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-16b9fd?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-39cefd?style=flat-square&logo=dart&logoColor=white" />
