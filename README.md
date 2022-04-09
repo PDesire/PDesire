@@ -38,7 +38,7 @@
 <br />
 
 <h3>About myself</h3>
-<img alt="gif-cat" align="right" src="https://picsum.photos/200/200" width="320px" />
+<img alt="gif-cat" align="right" src="https://github.com/PDesire/PDesire/blob/main/cute-hacker-cat.gif?raw=true" width="320px" />
 <p>
   I'm a 22 year old IT-Consultant, working in Frankfurt am Main and living at the <i><b>carnival stronghold</b></i> Mainz am Rhein. <br/>
   On my free time, I travel alot, watch some anime series and do many political things to spread some humanism to the world :P
