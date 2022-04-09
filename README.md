@@ -31,7 +31,7 @@
 
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=PDesire&count_private=true&include_all_commits=true&show_icons=true&theme=jolly" />
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDesire&layout=compact&hide=c,assembly,c%2B%2B&langs_count=8" />
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDesire&layout=compact&hide=c,assembly,c%2B%2B&langs_count=8&theme=jolly" />
 </p>
 
 <br />
