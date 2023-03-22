@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey, I'm Tristan</h1>
-<h3 align="center">Full-time IT-Consultant & Fullstack-Developer @ <a href="https://axitera.de">Axitera</a><br />
-  Regional party chairman Rhineland-Palatinate @ <a href="https://diehumanisten.de">Partei der Humanisten</a></h3>
+<h3 align="center">Full-time IT-Consultant & Fullstack-Developer @ <a href="https://axitera.de">Axitera</a></h3>
 <p align="center">
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-16b9fd?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-39cefd?style=flat-square&logo=dart&logoColor=white" />
@@ -41,17 +40,12 @@
 <h3>About myself</h3>
 <img alt="gif-cat" align="right" src="https://github.com/PDesire/PDesire/blob/main/cute-hacker-cat.gif?raw=true" width="320px" />
 <p>
-  I'm a 22 year old IT-Consultant, working in Frankfurt am Main and living at the <i><b>carnival stronghold</b></i> Mainz am Rhein. <br/>
-  On my free time, I travel alot, watch some anime series and do many political things to spread some humanism to the world :P
-  <br/><br/>
-  Always by train, I gonna travel through some cities around europe and I am somehow interested a bit on network technology, especially on the home network side. <i>deadflashed router vibes haha yes</i>
+  I'm a 23 year old IT-Consultant, working in Frankfurt am Main and living at Mainz am Rhein. <br/>
+  On my free time, I travel alot, watch some anime series and do many political things :P
 </p>
 
 <h3>Social Media</h3>
 <p>
-  <a href="https://twitter.com/PDesirePrv" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> 
   <a href="https://www.linkedin.com/in/tristan-marsell-0605361a2" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
